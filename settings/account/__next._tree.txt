@@ -1,3 +1,3 @@
 :HL["/orbita-web-3c73307-preview/_next/static/css/7207b8e25da95bc1.css","style"]
 :HL["/orbita-web-3c73307-preview/_next/static/css/3429bd0dd3ffa68b.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"settings","param":null,"prefetchHints":4192,"slots":{"children":{"name":"account","param":null,"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"USPMDvo9J4QYiJAUbVQa3"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"settings","param":null,"prefetchHints":4160,"slots":{"children":{"name":"account","param":null,"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"OqSrghZ4nQd5o0234fBxJ"}
